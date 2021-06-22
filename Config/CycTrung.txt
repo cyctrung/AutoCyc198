@@ -1,0 +1,5 @@
+zomeLevel=2
+width=1024
+height=600
+isLowGraphic=1
+isRemoveTerra=1
